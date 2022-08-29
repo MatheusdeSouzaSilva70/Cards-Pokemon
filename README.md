@@ -1,8 +1,8 @@
 
-# Cards-Dragon-Ball 
+# Cards-Pokémon 
 <img src="https://github.com/MatheusdeSouzaSilva70/Cards-Pokemon/blob/main/src/images/28.07.2022_11.29.36_REC.png" alt="Projeto-Pokedex">
 
-> Projeto pessoal de cards dos personagens do meu Anime favorito Dragon Ball.
+> Projeto pessoal de cards dos personagens do Anime Pokémon.
 
 # Apresentando:
 ### 1. Nesse projeto e posivel você ver o Poder de Luta, HP (VIDA), Velocidade Habilidades, Defesa, de cada um dos Pokemons
