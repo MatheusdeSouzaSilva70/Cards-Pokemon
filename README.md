@@ -19,8 +19,8 @@
 
 ## Links:
 - Portfolio:https://matheusdesouzasilva70.github.io/Portfolio/
-- linkedin: https://www.linkedin.com/in/matheus-de-souza-silva-288194229/
-- link do projeto:https://matheusdesouzasilva70.github.io/Cards-Pokemon/
+- Linkedin: https://www.linkedin.com/in/matheus-de-souza-silva-288194229/
+- Link do projeto:https://matheusdesouzasilva70.github.io/Cards-Pokemon/
 
 ## Autor:
 * **Matheus de Souza Silva**
